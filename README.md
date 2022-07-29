@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Emmanuel Milawi Shungu/@shungu12
+- 👀 I’m interested in web development,Data analysis 
+- 🌱 I’m currently learning C Sharp(C#)
+- 💞️ I’m looking to collaborate on a web project
+- 📫 How to reach me emmanuelshungu03@gmal.com
